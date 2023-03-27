@@ -1,5 +1,3 @@
-# Welcome to ASU Engineering
-
 This organization in GitHub is run by the Marketing and Communications team (https://comm.engineering.asu.edu) and contains the public and private repositories that power our web ecosystem. 
 
 Specifically, we maintain a set of plugins and themes for WordPress that enforce the ASU brand standards. Check out the following projects for more details:
